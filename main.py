@@ -1,2 +1,2 @@
-print("Baaaaaad USB")
+print("Bad USB")
 print("Added")
